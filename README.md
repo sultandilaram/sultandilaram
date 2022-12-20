@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-👋 My name is Sultan Nadeem and I am a 💻 software developer with experience in Solana(Rust), Node.js(TypeScript), MongoDB/PostgreSQL and React(TypeScript).
+My name is Sultan Nadeem and I am a 💻 software developer with experience in Solana(Rust), Node.js(TypeScript), MongoDB/PostgreSQL and React(TypeScript).
 
-🌱 I have a strong passion for building 🔥 high-quality, scalable, and efficient web applications. I am constantly learning and staying up-to-date with the latest technologies and best practices in the industry.
+I have a strong passion for building 🔥 high-quality, scalable, and efficient web applications. I am constantly learning and staying up-to-date with the latest technologies and best practices in the industry.
 
-🔭 In my previous projects, I have utilized Anchor Lang for building smart contracts on Solana, NodeJs for server-side applications and REST APIs, TypeScript for adding type-safety to my code, React for building modern and interactive user interfaces and all together for developing decentralized applications.
+In my previous projects, I have utilized Anchor Lang for building smart contracts on Solana, NodeJs for server-side applications and REST APIs, TypeScript for adding type-safety to my code, React for building modern and interactive user interfaces and all together for developing decentralized applications.
 
-👯 I’m looking to collaborate on open source reusable projects, such as npm packages and templates.
+I’m looking to collaborate on open source reusable projects, such as npm packages and templates.
 
 Some of the projects that I am particularly proud of include:
 * NFT Gamifications
