@@ -9,6 +9,7 @@ In my previous projects, I have utilized Anchor Lang for building smart contract
 I’m looking to collaborate on open source reusable projects, such as npm packages and templates.
 
 Some of the projects that I am particularly proud of include:
+* Honeycomb Protocol
 * NFT Gamifications
 * Raffles
 * Marketplace
